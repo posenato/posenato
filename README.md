@@ -1,5 +1,5 @@
-### Hi there 👋
-
+- 🔭 I’m currently an associate professor at the Department of Computer Science, University of Verona, Verona, Italy.
+- I use GitHub for some research programs and for teaching Java language to undergraduate students.
 <!--
 **posenato/posenato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
